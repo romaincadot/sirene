@@ -1,0 +1,16 @@
+tefet;libtefet;med_tefet;min_tefet;max_tefet
+00;0 salarié (unités ayant eu des salariés au cours de l'année de référence mais plus d'effectif au 31/12);0;0;0
+01;1 ou 2 salariés;1,5;1;2
+02;3 à 5 salariés;4;3;5
+03;6 à 9 salariés;7,5;6;9
+11;10 à 19 salariés;14,5;10;19
+12;20 à 49 salariés;34,5;20;49
+21;50 à 99 salariés;74,5;50;99
+22;100 à 199 salariés;149,5;100;199
+31;200 à 249 salariés;174,5;200;149
+32;250 à 499 salariés;374,5;250;499
+41;500 à 999 salariés;749,5;500;999
+42;1 000 à 1 999 salariés;1499,5;1000;1999
+51;2 000 à 4 999 salariés;3499,5;2000;4999
+52;5 000 à 9 999 salariés;7499,5;5000;9999
+53;10 000 salariés et plus;10000;10000;10000
